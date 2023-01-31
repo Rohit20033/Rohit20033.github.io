@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.abd64e84.css",
-    "main.js": "/static/js/main.7bf8c4f6.js",
+    "main.js": "/static/js/main.6af982db.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/elegant.png": "/static/media/elegant.0b4cd3b03d95d1fae94f.png",
     "static/media/dotAndKey.png": "/static/media/dotAndKey.0f1da71ab578ce32ea2f.png",
     "static/media/uboric.png": "/static/media/uboric.fd28a926a878e16eaa4b.png",
     "static/media/mentimeter.png": "/static/media/mentimeter.a12667375d0d0f375896.png",
+    "static/media/avatar.png": "/static/media/avatar.a8e4f66b8e3f3dbffa00.png",
     "static/media/Rohit-Prajapat-resume.pdf": "/static/media/Rohit-Prajapat-resume.9516e9dc5320ba8effe7.pdf",
-    "static/media/avatar.jpg": "/static/media/avatar.59f014f81e79de55b70e.jpg",
     "index.html": "/index.html",
     "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
-    "main.7bf8c4f6.js.map": "/static/js/main.7bf8c4f6.js.map",
+    "main.6af982db.js.map": "/static/js/main.6af982db.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.7bf8c4f6.js"
+    "static/js/main.6af982db.js"
   ]
 }
