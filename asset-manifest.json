@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.abd64e84.css",
-    "main.js": "/static/js/main.ecf5da48.js",
+    "main.js": "/static/js/main.a585e8e5.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/weatherimg1.png": "/static/media/weatherimg1.abe144e0c4beeaf53648.png",
     "static/media/weatherimg2.png": "/static/media/weatherimg2.b6e93b2dc994f148520f.png",
@@ -11,16 +11,16 @@
     "static/media/clickimg2.png": "/static/media/clickimg2.ddffe5182827922a4877.png",
     "static/media/elegant2.png": "/static/media/elegant2.95afcb06e98cc9e8b8e8.png",
     "static/media/youtube2.png": "/static/media/youtube2.1d3ecfedb1d24388624d.png",
-    "static/media/Rohit-Prajapat-resume.pdf": "/static/media/Rohit-Prajapat-resume.6869b9d15d0d9f0f74fb.pdf",
+    "static/media/Rohit-Prajapat-Resume.pdf": "/static/media/Rohit-Prajapat-Resume.6869b9d15d0d9f0f74fb.pdf",
     "static/media/clickimg1.png": "/static/media/clickimg1.9bd8260a9e11c03705f8.png",
     "static/media/avatar.jpg": "/static/media/avatar.59f014f81e79de55b70e.jpg",
     "index.html": "/index.html",
     "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
-    "main.ecf5da48.js.map": "/static/js/main.ecf5da48.js.map",
+    "main.a585e8e5.js.map": "/static/js/main.a585e8e5.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.ecf5da48.js"
+    "static/js/main.a585e8e5.js"
   ]
 }
